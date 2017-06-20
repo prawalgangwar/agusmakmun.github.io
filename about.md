@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I am freelance developer. Currently doing more in backend, focused in Python and Django.
+I am a embedded software developer currently working at Texas Instruments.
 
-email: agus[at]python.web.id
+email: prawalgangwar[at]gmail[dot]com

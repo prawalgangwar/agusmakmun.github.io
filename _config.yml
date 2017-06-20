@@ -1,8 +1,8 @@
 title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I am freelance developer. Currently doing more in backend, focused in Python and Django.
+description: My Personal Blog
+author: Prawal Gangwar
+github: https://github.com/prawalgangwar
+about: I am a embedded software developer currently working at Texas Instruments.
 disqus_shortname: stackproblems
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
@@ -19,17 +19,17 @@ social:
     - icon: fa-facebook
       link: "#"
     - icon: fa-twitter
-      link: "https://twitter.com/agusmakmun6"
+      link: "https://twitter.com/prawalgangwar"
     - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/summonagus"
+      link: "https://www.linkedin.com/in/prawalgangwar"
     - icon: fa-stack-exchange
       link: "#"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/prawalgangwar"
 
 share:
-  twitter_username: agusmakmun6
-  fb_appid: 1749788565247320
+  twitter_username: prawalgangwar
+  fb_appid:
 
 urls:
     - text: About Me
@@ -38,8 +38,10 @@ urls:
       url: /projects/
     - text: XML Feed
       url: /feed.xml
+    - text: Travel
+      url: /travel
 
-url: "https://agusmakmun.github.io"
+url: "https://prawalgangwar.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
