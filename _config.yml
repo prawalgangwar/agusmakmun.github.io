@@ -1,10 +1,10 @@
-title: Stack Problems
+title: Techilaa
 description: My Personal Blog
 author: Prawal Gangwar
 github: https://github.com/prawalgangwar
 about: I am a embedded software developer currently working at Texas Instruments.
-disqus_shortname: stackproblems
-google_analytics: UA-XXXXXXXX-Y
+disqus_shortname: techilaa
+google_analytics: UA-101400553-1
 avatar_url: /static/img/avatar.jpg
 
 enableTags: true
@@ -17,7 +17,7 @@ collections:
 
 social:
     - icon: fa-facebook
-      link: "#"
+      link: "https://facebook.com/prawalgangwar"
     - icon: fa-twitter
       link: "https://twitter.com/prawalgangwar"
     - icon: fa-linkedin
@@ -26,7 +26,10 @@ social:
       link: "#"
     - icon: fa-github
       link: "https://github.com/prawalgangwar"
-
+    - icon: fa-instagram
+      link: "https://instagram.com/prawalgangwar"
+    - icon: fa-google-plus
+      link: "https://plus.google.com/+PrawalGangwar"
 share:
   twitter_username: prawalgangwar
   fb_appid:
@@ -36,7 +39,7 @@ urls:
       url: /about/
     - text: My Projects
       url: /projects/
-    - text: XML Feed
+    - text: RSS Feed
       url: /feed.xml
     - text: Travel
       url: /travel
@@ -55,3 +58,6 @@ compress_html:
   clippings: all
   comments: ["<!-- ", " -->"]
   endings: all
+
+disqus:
+  shortname: techilaa
