@@ -2,7 +2,7 @@ title: Techilaa
 description: My Personal Blog
 author: Prawal Gangwar
 github: https://github.com/prawalgangwar
-about: I am a embedded software developer currently working at Texas Instruments.
+about: I like systems 
 disqus_shortname: techilaa
 google_analytics: UA-101400553-1
 avatar_url: /static/img/avatar.jpg
@@ -39,6 +39,8 @@ urls:
       url: /about/
     - text: My Projects
       url: /projects/
+    - text: Resume
+      url: /resume
     - text: RSS Feed
       url: /feed.xml
     - text: Travel

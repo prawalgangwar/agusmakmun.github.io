@@ -50,9 +50,15 @@ a:hover {
   margin: 0;
   list-style: none;
 }
+.sidebar-nav strong {
+font-size: 20px;
+}
 .sidebar-nav li::before {
   content: "»";
   margin-right: .5em;
+}
+.about {
+  font-size: 15px;
 }
 
 /* Content */
