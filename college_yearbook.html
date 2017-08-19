@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<div id="home">
+  <h1>Testimonials from college yearbook</h1>
+  <hr />
+
+  <ol class="testimonialss">
+    {% assign hasSimilar = '' %}
+    {% for testimonials in site.testimonials %}
+      <ul>
+        <h3>
+          {{ testimonials.title }}
+        </h3>
+          <div class="content">
+            <div class="post">{{ testimonials.content }}</div>
+          </div>
+      </ul>
+
+    {% endfor %}
+  </ol>
+
+</div><!-- end #home -->

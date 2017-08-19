@@ -1,2 +1,8 @@
+---
+layout: post
+title: "Salil Mishra"
+date: 2017-06-20 02:15:00 -0500
+---
+
 Bhai, I still recall the first day I saw you in FIITJEE with your doppelganger and it has been 6 years since then that we have known each other. It has been a memorable journey that we have taken together and especially the last four years have been AWESOME. Saath me campus me ghumna, gossip krna, logon ki bitching krna aur baaki "kuch bhi" sab ke liye tu hi to saath rha hai humesha. Your dedication and hardwork towards any work that interests you- koi bhi project work ho, internship ya inerest ka course ho, is really admirable and I respect that a lot. I really wish ki tu bahar jaa kar MS kre kuch saal baad aur chaape. You are quite an energetic ( over enthusiastic I may say ) person and the parties that we have had have been amazing. Yes, I remember that we have a pending "Best Party Ever" and don't worry we will make it happen :P. Tu frust bahut jaldi ho jaata hai cheezon aur logon se aur thoda 'sadu' ho jaata hai , mat hua kar!! You have a knack of having everything perfect while doing anything and that is both impressive and irritating at times. Bhai humesha touch me rhna chaahe jahan bhi jaana kaur aise hi khush rhna jaise tu rhta hai . Teri unique laughter humesha yaad rhegi mujhe :P
  All the best for everything, or as you would love it "MAY THE FORCE BE WITH YOU":D
