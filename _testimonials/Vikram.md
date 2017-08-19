@@ -8,4 +8,4 @@ Hey Gangwar! Having you as part of my journey at IITK was really fun. Your inter
 
  Until next time, cheers! 
 
- P.S.- As smart as you are, I have always wondered why are you still single  ;-) 
+ P.S.- As smart as you are, I have always wondered why are you still single  :wink: 
