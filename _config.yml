@@ -43,7 +43,7 @@ urls:
     - text: My Projects
       url: /projects/
     - text: Resume
-      url: /resume
+      url: https://prawalgangwar.github.io/vitae/
     - text: RSS Feed
       url: /feed.xml
     - text: Travel
