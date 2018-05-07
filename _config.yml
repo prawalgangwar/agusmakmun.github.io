@@ -48,8 +48,6 @@ urls:
       url: /feed.xml
     - text: Travel
       url: /travel
-    - text: Testimonials
-      url: /college_yearbook 
 
 url: "https://prawalgangwar.github.io"
 baseurl: ""
