@@ -4,8 +4,8 @@ title: "Intern Experience at Indiana University Bloomington"
 date: 2017-08-16 12:21:00 -0500
 ---
 
-# Intern Experience at Indiana University Bloomington
-
+<!-- # Intern Experience at Indiana University Bloomington
+ -->
 During the summers of 2017 I interned with Prof. Geoffrey Fox and Prof. Judy Qiu at the Indiana University Bloomington. Like most of the other students in my college I got this this intern via apping(sending applications to multiple people). Since my interest and experience in the field(distributed systems) were relavant, this was the right intern for me. Unlike the usual 10-12 weeks research internship I was here only for 6 weeks. So less time and more work. My intern was well funded and accomodation was pre-arranged by the university staff. US visa has a very long and tedious procedure. I was lucky enough that it did not get into the administrative processing and received it quite close to my departure date.
 
 The engineering department at IU consists of very few departments such as Cyber Infrastructure and Intelligent Systems. I was working with the Intelligent Systems Engineering Department which is relatively new in the university. But looking at the research in Computer Security and High Performance Computing the university does very well with the ranking source:[http://csrankings.org/](http://csrankings.org "csrankings.org"). It has some very cool faculty doing very intersting work.
