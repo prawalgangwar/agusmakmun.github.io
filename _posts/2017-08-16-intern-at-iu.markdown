@@ -4,8 +4,6 @@ title: "Intern Experience at Indiana University Bloomington"
 date: 2017-08-16 12:21:00 -0500
 ---
 
-<!-- # Intern Experience at Indiana University Bloomington
- -->
 During the summers of 2017 I interned with Prof. Geoffrey Fox and Prof. Judy Qiu at the Indiana University Bloomington. Like most of the other students in my college I got this this intern via apping(sending applications to multiple people). Since my interest and experience in the field(distributed systems) were relavant, this was the right intern for me. Unlike the usual 10-12 weeks research internship I was here only for 6 weeks. So less time and more work. My intern was well funded and accomodation was pre-arranged by the university staff. US visa has a very long and tedious procedure. I was lucky enough that it did not get into the administrative processing and received it quite close to my departure date.
 
 The engineering department at IU consists of very few departments such as Cyber Infrastructure and Intelligent Systems. I was working with the Intelligent Systems Engineering Department which is relatively new in the university. But looking at the research in Computer Security and High Performance Computing the university does very well with the ranking source:[http://csrankings.org/](http://csrankings.org "csrankings.org"). It has some very cool faculty doing very intersting work.
@@ -16,7 +14,7 @@ Bloomington, not being a Tier 1 US city, does not come close to Chicago, New Yor
 ![alt text](/files/IU/night_life.jpg "Backdoor bar")
 
 Weather is really good with occasional rainfalls and the temperature is generally in the range of 20-25 degree Celsius for this time of the year. It gets moderately humid here sometimes due to the rainfall followed by sudden sunlight. The cleanliness and low-pollution levels of the place can be clearly judged from the vivid blue color of sky and the fresh cool air. One of the strange thing I experienced there is that the sun sets at 9:30PM or so. I also spent the Summer solstice day(21 June 2017) and hence was the longest day of my life yet. The days are literally very long and so the night-life also starts late.
-![alt text](/files/IU/general_scene.jpg "")
+![alt text](/files/IU/general_scene.jpg "Weather")
 
 Talking about night-life here, it is quite a charm. It is pretty much safe here to roam around at three in the morning provided you stay close to the university campus. Going downtown on the Kirkwood Avenue would let you pass through several bars and pubs with some great eating spots. Theses places might or might not have nominal cover charges depending on if there is some performance going on inside. The Players pub, Root Cellar, and Backdoor were among my favorites having the perfect combination of dance, music and drinks. Kilroys, Video Saloon, Upstairs, Nicks, Buffalios were good too. All of theses places knew how to make a good Long Island Iced Tea(LIIT) which became my favorite drink soon enough. 
 ![alt text](/files/IU/root_cellar.jpg "Root Cellar")
