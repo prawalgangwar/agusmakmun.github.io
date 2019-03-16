@@ -2,7 +2,7 @@ title: Techilaa
 description: My Personal Blog
 author: Prawal Gangwar
 github: https://github.com/prawalgangwar
-about: I like systems 
+about: I like systems
 disqus_shortname: techilaa
 google_analytics: UA-101400553-1
 avatar_url: /static/img/avatar.jpg
@@ -14,7 +14,7 @@ collections:
   project:
     output: true
     permalink: /project/:path/
-  testimonials:
+  dynamic:
     output: true
     permalink: /:collection/:path
 
